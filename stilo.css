@@ -1,0 +1,45 @@
+* {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    border: .2rem solid black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    border: 0.2rem solid red;
+    height: 4rem;
+    display: flex: ;
+    padding: 0.5rem;
+    /*justfly-contest:center; alinhar horizontalmente */
+    align-items: center;
+    align-content:center;
+    background-color: 
+}
+
+.logo {
+    border: 0.2rem solid red;
+}
+
+section {
+    border: 0.2rem solid blue
+    display
+}
+nav{
+    border: 0.2rem solid orange
+}
+main{
+    border: .2rem solid powderblue;
+}
+footer {
+    border: .2rem solid green
+    heidth: 4rem;
+    padding:0.5rem;
+    background-color
+    
+}
